@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "materialize-css": "^1.0.0",
+    "react-router-dom": "^7.1.3"
+  }
+}
